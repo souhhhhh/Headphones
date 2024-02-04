@@ -1,0 +1,8 @@
+{
+  "editor.autoClosingComments": "always",
+  "editor.autoClosingBrackets": "always",
+  "css.completion.triggerPropertyValueCompletion": true,
+  "less.completion.triggerPropertyValueCompletion": true,
+  "scss.completion.triggerPropertyValueCompletion": true,
+  "editor.acceptSuggestionOnCommitCharacter": true
+}
